@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\bst.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\bst.dir/objects.a @CMakeFiles\bst.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\bst.dir/objects.a -Wl,--no-whole-archive -o D:\CClass\NCC_CLASS\BST_assignment\executable\bst.exe -Wl,--out-implib,libbst.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bst.dir\linkLibs.rsp

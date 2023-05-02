@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CClass/NCC_CLASS/BST_assignment/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\bst.dir\\main.c.obj -c D:\\CClass\\NCC_CLASS\\BST_assignment\\main.c",
+  "file": "D:/CClass/NCC_CLASS/BST_assignment/main.c",
+  "output": "CMakeFiles/bst.dir/main.c.obj"
+}
+]

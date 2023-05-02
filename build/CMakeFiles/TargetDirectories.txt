@@ -1,0 +1,3 @@
+D:/CClass/NCC_CLASS/BST_assignment/build/CMakeFiles/bst.dir
+D:/CClass/NCC_CLASS/BST_assignment/build/CMakeFiles/edit_cache.dir
+D:/CClass/NCC_CLASS/BST_assignment/build/CMakeFiles/rebuild_cache.dir
